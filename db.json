@@ -1,0 +1,50 @@
+{
+  "ResponseCode": 200,
+  "ErrorMessage": null,
+  "Content": {
+    "DataPoints": [
+      {
+        "TestName": "Cholesterol LDL, Calc",
+        "TestResult": "0.80 (MMOL/L)",
+        "ReferenceRange": null,
+        "Remarks": null,
+        "DisplayDate": "2018-12-12T13:02:00+08:00",
+        "Value": "0.80",
+        "Unit": "MMOL/L",
+        "IsAbnormalOrCritical": false
+      },
+      {
+        "TestName": "Cholesterol LDL, Calc",
+        "TestResult": "0.15 (MMOL/L)",
+        "ReferenceRange": null,
+        "Remarks": null,
+        "DisplayDate": "2018-12-12T13:03:00+08:00",
+        "Value": "0.15",
+        "Unit": "MMOL/L",
+        "IsAbnormalOrCritical": false
+      },
+      {
+        "TestName": "Cholesterol LDL, Calc",
+        "TestResult": "1.62 (MMOL/L)",
+        "ReferenceRange": null,
+        "Remarks": null,
+        "DisplayDate": "2018-12-12T15:04:00+08:00",
+        "Value": "1.62",
+        "Unit": "MMOL/L",
+        "IsAbnormalOrCritical": false
+      },
+      {
+        "TestName": "Cholesterol LDL, Calc",
+        "TestResult": "1.62 (MMOL/L)",
+        "ReferenceRange": null,
+        "Remarks": null,
+        "DisplayDate": "2018-12-12T15:04:00+08:00",
+        "Value": "1.62",
+        "Unit": "MMOL/L",
+        "IsAbnormalOrCritical": false
+      }
+    ],
+    "Title": "Lipid Panel (CHO/HDL/TG/LDLc)",
+    "HasAbnormalRecord": false
+  }
+}
